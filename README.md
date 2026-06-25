@@ -1,7 +1,7 @@
 # Text-to-Video Generation: A Comparative Study
 **Author:** Azeezat Akinola | [LinkedIn](https://www.linkedin.com/in/azeezat-akinola-710b73113) | [Portfolio](https://Azeezah94.github.io)
 
-Comparative evaluation of three text-to-video generation models — **ModelScope**, **Text2Video-Zero**, and **Motion Consistency Model** — using CLIP score and rigorous statistical testing.
+Comparative evaluation of three text-to-video generation models **ModelScope**, **Text2Video-Zero**, and **Motion Consistency Model** using CLIP score and rigorous statistical testing.
 
 ## Methodology
 Matches the published thesis methodology exactly:
